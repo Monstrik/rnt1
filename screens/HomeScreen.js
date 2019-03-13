@@ -34,17 +34,13 @@ export default class HomeScreen extends React.Component {
 
           <View style={styles.getStartedContainer}>
             <Text style={styles.getStartedText}>
-                Hi native
+                Hi native 1
             </Text>
           </View>
-
         </ScrollView>
 
-        <View style={styles.tabBarInfoContainer}>
-          <View style={[styles.codeHighlightContainer, styles.navigationFilename]}>
-            <MonoText style={styles.codeHighlightText}>navigation/MainTabNavigator.js</MonoText>
-          </View>
-        </View>
+
+      
       </View>
     );
   }

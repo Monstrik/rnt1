@@ -2,9 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 26566,
-  "expoServerNgrokUrl": "https://mf-sik.imonstrik.rnt1.exp.direct",
-  "packagerNgrokUrl": "https://packager.mf-sik.imonstrik.rnt1.exp.direct",
-  "ngrokPid": 26670,
+  "packagerPid": 5732,
+  "expoServerNgrokUrl": "https://mf-sik.anonymous.rnt1.exp.direct",
+  "packagerNgrokUrl": "https://packager.mf-sik.anonymous.rnt1.exp.direct",
+  "ngrokPid": 5888,
   "webpackServerPort": null
 }
